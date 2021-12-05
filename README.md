@@ -1,9 +1,9 @@
-### Hi there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hi there! I am Akash Rai<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ### About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35px">
 
 - 🏦 I'm a Software Engineer working for Tata Consultancy Services<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I am familiar with **.java**, **.py**, **.sql**
+- 💻 I am use **.java**, **.py**, **.sql**
 - 🌱 I’m currently learning Data Analysis
 - 📫 Reach me on : [Akash Rai][linkedin]
 <!-- - 👯 I’m looking to collaborate on ... -->
@@ -23,7 +23,8 @@
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="85" height="45"/>
         <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="85" height="45"/>
         <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="85" height="45"/>
-<!--         <img src="https://images.app.goo.gl/VCDahEgkqJ2ANfDS7" alt="pandas" width="45" height="45"/>    -->
+        <img src="https://user-images.githubusercontent.com/62280574/144737947-8c01d7af-6e0e-495b-b5de-7b3657e7e971.png" alt="pandas" width="85" height="45"/>
+        
 </p>
 
 ### Connect with me:
