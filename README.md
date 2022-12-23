@@ -2,9 +2,9 @@
 
 ### About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35px">
 
-- 🏦 I'm a Software Engineer working for Tata Consultancy Services<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🏦 I'm a Software Engineer working at Tata Consultancy Services<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use **.java**, **.py**, **.sql**
-- 🌱 I can make machine learn
+- 🌱 Exploring .
 - 📫 Reach me on : [Akash Rai][linkedin]
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
