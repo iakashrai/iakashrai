@@ -91,8 +91,8 @@ To ensure parsing compliance with Application Tracking Systems (ATS), my core pr
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iakashrai&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakashrai&layout=compact&theme=onedark&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iakashrai&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=iakashrai&layout=compact&theme=onedark&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
